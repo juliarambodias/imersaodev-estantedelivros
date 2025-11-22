@@ -20,24 +20,6 @@ Este projeto não é apenas uma lista, mas uma experiência completa com diversa
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-Para ver o projeto em ação, basta seguir estes passos:
-
-1.  Clone este repositório:
-    ```bash
-    git clone https://github.com/juliarambodias/A-Estante-da-Julia.git
-    ```
-2.  Navegue até a pasta do projeto:
-    ```bash
-    cd A-Estante-da-Julia
-    ```
-3.  Abra o arquivo `index.html` no seu navegador de preferência.
-
-E pronto! Você já pode explorar a estante.
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 *   **HTML5**
