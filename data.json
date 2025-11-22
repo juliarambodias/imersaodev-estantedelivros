@@ -1,0 +1,251 @@
+{
+  "livros": [
+    {
+      "titulo": "É Assim Que Acaba",
+      "autor": "Colleen Hoover",
+      "genero": "Romance dramático / Coração esmagado",
+      "descricao": "Uma menina apaixonada por flores e café descobre que nem todo amor é arco-íris. Entre tapas e declarações dramáticas, você vai rir, chorar e questionar suas escolhas amorosas.",
+      "recomendado": false    },
+    {
+      "titulo": "Tarde Demais",
+      "autor": "Colleen Hoover",
+      "genero": "Romance intenso / Sessão de lamento",
+      "descricao": "Se você acha que segunda chance é só no horário do ônibus, se enganou. Aqui tem suspense, paixão e aquele clichê que a gente ama odiar. Prepare o lenço e o sarcasmo."
+    },
+    {
+      "titulo": "Hibisco Roxo",
+      "autor": "Chimamanda Ngozi Adichie",
+      "genero": "Drama familiar / Vida difícil",
+      "descricao": "Através dos olhos de uma adolescente, o livro expõe as complexidades de uma Nigéria pós-colonial, o fanatismo religioso e a opressão patriarcal. Uma leitura poderosa sobre silêncio, liberdade e a busca pela própria voz.",
+      "recomendado": true 
+    },
+    {
+      "titulo": "Namorado de Aluguel",
+      "autor": "Kasie West",
+      "genero": "Romance teen / Comédia fofa",
+      "descricao": "Uma menina que só queria paz e rango bom acaba parando num reality show com príncipe, vestidos e gente surtando. Enquanto o povo pensa em amor verdadeiro, ela tá pensando no buffet. Rainha sem saber."
+    },
+    {
+      "titulo": "A Escolha",
+      "autor": "Nicholas Sparks",
+      "genero": "Romance meloso / Drama do coração",
+      "descricao": "Quando decidir entre amor verdadeiro e a vida prática vira um teste de tortura emocional, prepare-se pra chorar, suspirar e julgar os personagens sem dó."
+    },
+    {
+      "titulo": "Duff",
+      "autor": "Kody Keplinger",
+      "genero": "Romance teen / Humor ácido",
+      "descricao": "Ao ser rotulada como a 'amiga feia e gorda' do grupo, uma garota decide virar o jogo. Uma comédia romântica ácida e divertida sobre rótulos, amizade e autoaceitação."    },
+    {
+      "titulo": "Simplesmente Acontece",
+      "autor": "Cecelia Ahern",
+      "genero": "Romance fofo / Amizade complicada",
+      "descricao": "Dois amigos, química inegável e mil obstáculos. Entre encontros, desencontros e pensamentos profundos, você vai se perguntar se amizade de infância realmente termina em romance ou em pizza e risadas.",
+      "recomendado": false    },
+    {
+      "titulo": "Anne de Green Gables (livro 1)",
+      "autor": "L. M. Montgomery",
+      "genero": "Clássico juvenil / Sonhadora incorrigível",
+      "descricao": "Menina ruiva cheia de ideias mirabolantes invade a vida de uma família pacata. Entre confusões e poesia, você vai rir, chorar e desejar ter uma amiga tão dramática quanto ela."
+    },
+    {
+      "titulo": "A Vegetariana",
+      "autor": "Han Kang",
+      "genero": "Drama psicológico / Estranho e intenso",
+      "descricao": "Uma mulher decide parar de comer carne e o mundo dela desmorona aos poucos. É bizarro, perturbador e, de algum jeito, fascinante."
+    },
+    {
+      "titulo": "A Garota do Lago",
+      "autor": "Charlie Donlea",
+      "genero": "Suspense / Mistério",
+      "descricao": "Crime, segredos e reviravoltas. Você vai tentar adivinhar quem matou quem e acabar sendo enganado em todas. Tipo jogo mental, mas com muita tensão."
+    },
+    {
+      "titulo": "Aristóteles e Dante",
+      "autor": "Benjamin Alire Sáenz",
+      "genero": "Juvenil / Descobrindo a vida",
+      "descricao": "Dois garotos tentando entender o mundo e a si mesmos. Romance suave, filosofia de corredor de escola e aquele drama teen que a gente ama."
+    },
+    {
+      "titulo": "Trono de Vidro",
+      "autor": "Sarah J. Maas",
+      "genero": "Fantasia épica / Ação e romance",
+      "descricao": "Assassina, rei malvado, profecias e romance proibido. Se você gosta de ação com pitadas de crush complicados, esse é o seu mundo."
+    },
+    {
+      "titulo": "O Príncipe Cruel (trilogia completa)",
+      "autor": "Holly Black",
+      "genero": "Fantasia dark / Jogos de poder",
+      "descricao": "Três livros de intrigas, magia e personagens que fazem você querer ser má só pra se divertir. Amor? Tem, mas é perigoso, tipo reality show com espada."
+    },
+    {
+      "titulo": "O Acordo",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Um acordo entre dois universitários que claramente vai dar errado. Spoiler: muito drama, crushes intensos e corações acelerados."
+    },
+    {
+      "titulo": "O Erro",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Erro? Talvez. Paixão? Com certeza. A gente só torce pra esses universitários não se matarem de tanto drama."
+    },
+    {
+      "titulo": "O Jogo",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Jogos de sedução, segredos e crushes que vão te fazer rir e suspirar ao mesmo tempo. Alerta: coração fraco não sobrevive intacto."
+    },
+    {
+      "titulo": "A Conquista",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Conquistar ou ser conquistado? Entre festas, confusões e muito calor, o romance chega ao ápice. Prepare o ventilador."
+    },
+    {
+      "titulo": "A Paciente Silenciosa",
+      "autor": "Alex Michaelides",
+      "genero": "Suspense psicológico / Mistério chocante",
+      "descricao": "Mulher que para de falar depois de um crime. Mistério, tensão e aquele plot twist que faz você cuspir café da surpresa."
+    },
+    {
+      "titulo": "Herdeiras do Mar",
+      "autor": "Mary Lynn Bracht",
+      "genero": "Histórico / Drama familiar",
+      "descricao": "Uma história comovente que mergulha na dolorosa história das 'mulheres de conforto' coreanas durante a Segunda Guerra Mundial. O livro expõe as atrocidades da guerra e a resiliência das mulheres, trazendo à tona uma crítica social poderosa sobre um trauma histórico que ecoa até hoje.",
+      "recomendado": true 
+    },
+    {
+      "titulo": "Sombra e Ossos",
+      "autor": "Leigh Bardugo",
+      "genero": "Fantasia / Aventura e magia",
+      "descricao": "Menina comum descobre poderes e um mundo sombrio cheio de traições e romance. Tipo Hogwarts, só que mais perigoso e com crush mortal."
+    },
+    {
+      "titulo": "Vergonha",
+      "autor": "Brittainy C. Cherry",
+      "genero": "Romance dramático / Corações partidos",
+      "descricao": "Segredos, tragédias e sentimentos à flor da pele. Prepare o coração e a cara de 'não acredito que eles fizeram isso de novo'."
+    },
+    {
+      "titulo": "Nebulosos",
+      "autor": "Tay Ferreira",
+      "genero": "Romance / Amores complicados",
+      "descricao": "Dois livros de desencontros, paixões e drama que dá vontade de entrar na história e dar uns tapas nos personagens. Tipo, amadurece, gente!"
+    },
+    {
+      "titulo": "Percy Jackson",
+      "autor": "Rick Riordan",
+      "genero": "Fantasia / Mitologia divertida",
+      "descricao": "Menino descobre que é filho de deus grego e tudo muda. Monstros, aventuras e aquele humor que só um semideus adolescente pode ter."
+    },
+    {
+      "titulo": "The Chase",
+      "autor": "Elle Kennedy",
+      "genero": "Romance hot / Universitário",
+      "descricao": "Amor, segredos e muito drama adolescente. Se você gosta de crushes intensos, prepare-se."
+    },
+    {
+      "titulo": "The Bad Guy",
+      "autor": "Miss Conface",
+      "genero": "Romance / Comédia e trapaceiros",
+      "descricao": "Um livro cheio de tretas amorosas e malandragem. Cuidado pra não se apaixonar pelo vilão."
+    },
+    {
+      "titulo": "Be The Best Liar",
+      "autor": "Miss Conface",
+      "genero": "Romance / Enganações amorosas",
+      "descricao": "Mentiras, sedução e confusões. Tudo que a gente adora odiar."
+    },
+    {
+      "titulo": "Metanoia",
+      "autor": "Cora Menestrelli",
+      "genero": "Romance dramático / Crescimento pessoal",
+      "descricao": "Personagens tentando se reencontrar, superar o passado e, de quebra, fazer você refletir sobre suas escolhas amorosas e de vida."
+    },
+    {
+      "titulo": "O Que Você Não Vê",
+      "autor": "Cora Menestrelli",
+      "genero": "Romance dramático / Segredos à vista",
+      "descricao": "Quando a aparência engana, os sentimentos são traiçoeiros e você fica torcendo pra tudo dar certo, mas sabe que não vai."
+    },
+    {
+      "titulo": "Punk 57",
+      "autor": "Penelope Douglas",
+      "genero": "Romance / Treta adolescente",
+      "descricao": "O livro consegue ser um festival de decisões ruins, mensagens trocadas que só irritam e aquele drama adolescente exagerado que parece escrito só pra causar frustração. Difícil de largar, mas não por bons motivos."
+    },
+    {
+      "titulo": "Flores Para Algernon",
+      "autor": "Daniel Keyes",
+      "genero": "Drama / Reflexão profunda",
+      "descricao": "Um homem com deficiência intelectual passa por um procedimento que o torna um gênio. Uma jornada emocionante e dolorosa que questiona o que realmente significa ser inteligente, humano e feliz.",
+      "recomendado": true    },
+    {
+      "titulo": "Love Deception",
+      "autor": "Helena Armas",
+      "genero": "Romance / Enganos e amor",
+      "descricao": "Mentiras, truques e aquele jogo de gato e rato que faz você virar a página sem parar."
+    },
+    {
+      "titulo": "Verity",
+      "autor": "Colleen Hoover",
+      "genero": "Thriller / Suspense intenso",
+      "descricao": "Mentiras, segredos e uma escritora psicopata. Leitura tensa que vai te deixar com o coração na mão e a boca aberta."
+    },
+    {
+      "titulo": "Os Garotos Mortos Não Contam Segredos",
+      "autor": "Parker Minser",
+      "genero": "Suspense juvenil / Mistério",
+      "descricao": "Segredos sombrios, desaparecimentos e tensão adolescente. Tipo Scooby-Doo, só que mais dark."
+    },
+    {
+      "titulo": "Os Garotos Mortos Não Contam Mentiras",
+      "autor": "Parker Minser",
+      "genero": "Suspense juvenil / Continuação tensa",
+      "descricao": "Mais segredos, mais mistérios e a mesma vibe de tensão que vai te prender até a última página."
+    },
+    {
+      "titulo": "Heartstopper",
+      "autor": "Alice Oseman",
+      "genero": "Romance teen / Fofo e fofinho",
+      "descricao": "Amizade, crushes e fofura máxima. Um livro que faz você suspirar e sorrir feito boba."
+    },
+    {
+      "titulo": "Crepúsculo",
+      "autor": "Stephenie Meyer",
+      "genero": "Romance sobrenatural / Vampiros dramáticos",
+      "descricao": "Menina comum conhece vampiro lindo e problemático. Triângulo amoroso e drama adolescente garantidos."
+    },
+    {
+      "titulo": "The Love Hypothesis",
+      "autor": "Ali Hazelwood",
+      "genero": "Romance universitário / Fake love",
+      "descricao": "Uma cientista decide fingir um namoro com um professor carrancudo e acaba testando suas próprias hipóteses sobre o amor. Uma comédia romântica inteligente, divertida e que virou um fenômeno.",
+      "recomendado": true    },
+    {
+      "titulo": "A Seleção",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Reality show real",
+      "descricao": "Uma menina que só queria paz e rango bom acaba parando num reality show com príncipe, vestidos e gente surtando. Enquanto o povo pensa em amor verdadeiro, ela tá pensando no buffet. Rainha sem saber."
+    },
+    {
+      "titulo": "A Elite",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Drama do palácio",
+      "descricao": "A Seleção ficou mais tensa: agora restam poucos competidores, mais intrigas e crushes pra lá de complicados. Suspense + vestidos luxuosos = caos controlado."
+    },
+    {
+      "titulo": "A Escolha",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Final dramático",
+      "descricao": "Chegou a hora de decidir: amor verdadeiro ou sobrevivência? Spoiler: muita emoção, corações partidos e drama real estilo novela das oito."
+    },
+    {
+      "titulo": "Feliz Para Sempre",
+      "autor": "Kiera Cass",
+      "genero": "Romance distópico / Epílogo fofo",
+      "descricao": "O final que todo mundo queria: casamentos, corações em paz e a certeza de que pelo menos alguém conseguiu o príncipe e o buffet dos sonhos."
+    }
+  ]
+}

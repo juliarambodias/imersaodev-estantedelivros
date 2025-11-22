@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Quicksand:wght@300;400;500&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="style.css">
+    <title> Quais livros a Júlia já leu? 📖 </title>
+</head>
+<body>
+    <header>
+        <h1 onclick="resetarPagina()">Descubra as Leituras da Júlia</h1>
+        <div>
+            <input type="text" id="campo-busca" onkeyup="inciarBusca()" placeholder="Busque um livro ou clique em Buscar para ver todos">
+            <button id="botao-busca" onclick="inciarBusca()">Buscar</button>
+            <button id="botao-recomendacoes" onclick="mostrarRecomendacoes()">Meus Favoritos</button>
+        </div>
+    </header>
+
+    <main>
+       <section class="card-container">
+      </section>
+    </main>
+
+    <section class="recomendacao-box">
+        <h2>Quer me recomendar um livro?</h2>
+        <p>Se você tem uma sugestão que acha que eu vou amar, me conta aqui!</p>
+        <div class="recomendacao-form">
+            <input type="text" id="rec-titulo" placeholder="Título do livro">
+            <input type="text" id="rec-autor" placeholder="Autor(a)">
+            <button id="botao-recomendar" onclick="enviarRecomendacao()">Enviar Sugestão</button>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <ul class="footer-links"> 
+                <li>
+                    <a href="https://www.linkedin.com/in/julia-rambo-412056333/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+                </li>
+                <li> <a href="https://github.com/juliarambodias" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+            </ul>
+            <p class="copyright">© 2025 A Estante da Júlia. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- <script>
+        // A função iniciarBusca() chamada pelo botão precisa ser definida aqui.
+        function inciarBusca() {
+            alert("Funcionalidade de busca ainda não implementada!");
+        }
+    </script> -->
+<script src="script.js"></script>
+</body>
+</html>
